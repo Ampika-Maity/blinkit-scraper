@@ -42,3 +42,9 @@ It scrolls through the entire product list, scrapes key pricing details, and sav
 
 `bash
 pip install selenium
+
+## 📷 Screenshots
+
+### 🔹 GitHub Repo View
+
+![Repository Screenshot](https://github.com/Ampika-Maity/blinkit-scraper/blob/main/SS%20of%20blinkit%20scraper.png)
