@@ -47,7 +47,7 @@ pip install selenium
 
 ### 🔹 GitHub Repo View
 
-![Repository Screenshot](https://github.com/Ampika-Maity/blinkit-scraper/blob/main/SS%20of%20blinkit%20scraper.png)
+![Repository Screenshot](https://github.com/Ampika-Maity/blinkit-scraper/blob/main/screenshots/output_CSV_preview.png)
 ---
 
 ### 🖥️ Terminal Output Example
