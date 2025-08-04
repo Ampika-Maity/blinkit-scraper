@@ -48,3 +48,18 @@ pip install selenium
 ### 🔹 GitHub Repo View
 
 ![Repository Screenshot](https://github.com/Ampika-Maity/blinkit-scraper/blob/main/SS%20of%20blinkit%20scraper.png)
+---
+
+### 🖥️ Terminal Output Example
+
+Here’s how the scraper looks when running inside Visual Studio Code:
+
+![Terminal Output](https://github.com/Ampika-Maity/blinkit-scraper/blob/main/screenshots/termial%20output.png)
+
+---
+
+### 🌐 Live Scraper Preview
+
+This is the Blinkit site being automatically opened and scrolled by Selenium while scraping product data:
+
+![Scraper Preview](https://github.com/Ampika-Maity/blinkit-scraper/blob/main/screenshots/scraper_preview.png)
